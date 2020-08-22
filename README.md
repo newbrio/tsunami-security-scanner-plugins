@@ -1,18 +1,13 @@
-# Plugins for Tsunami Security Scanner
+
 
 This project aims to provide a central repository for many useful Tsunami
 Security Scanner plugins.
 
 ## Contributing
 
-Read how to [contribute to Tsunami](docs/contributing.md).
+Read how to [contribute to Tsunami](docs/contributing.
 
-## Source Code Headers
-
-Every file containing source code must include copyright and license
-information. This includes any JS/CSS files that you might be serving out to
-browsers. (This is to help well-intentioned people avoid accidental copying that
-doesn't comply with the license.)
+Every file containing source code must include copyrigh
 
 Apache header:
 
